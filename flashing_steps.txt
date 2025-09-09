@@ -1,0 +1,26 @@
+¡¡To flash the ROM, you must use OrangeFox Recovery specified here.!!
+
+OrangeFox Recovery Official: https://orangefox.download/device/6574e52f7f9618c5be6930ab
+
+OrangeFox Recovery Unofficial: https://github.com/ymdzq/OrangeFox-Action-Builder/releases/tag/17353392959
+
+KernelSU Next Boot: https://t.me/MondrianDevelopment/5692
+
+* Notes:
+- Firmware Incluided, !!Do not flash firmware¡¡
+- If you are coming from another ROM or any Hyper mod, You Need to flash Xiaomi.EU or Global in its latest version.
+
+Flashing Instructions in OrangeFox:
+
+* Reboot to Recovery OrangeFox *
+
+* Clean Flash:
+- Wipe Dalvik, Cache, Metadata, Data
+- Flash ROM.zip
+- Format data
+- Reboot
+
+* Dirty Flash:
+- Wipe Dalvik, Cache
+- Flash ROM.zip
+- Reboot
